@@ -1,0 +1,28 @@
+Junior Data Scientist / Data Analyst
+Helio Analytics
+
+We are hiring a Junior Data Scientist / Data Analyst to support product and finance stakeholders.
+
+Responsibilities
+- Analyze datasets with Python and SQL.
+- Build pandas-based reporting workflows.
+- Apply machine learning for forecasting and classification.
+- Create dashboards in Power BI.
+- Deploy lightweight jobs on AWS.
+- Package analytics services with Docker.
+- Communicate statistical findings to non-technical partners.
+
+Required qualifications
+- Python
+- SQL
+- Pandas
+- Machine Learning
+- Power BI
+- AWS
+- Docker
+- Statistics
+- Bachelor's degree in a quantitative field
+
+Nice to have
+- Experience with REST APIs
+- Familiarity with scikit-learn

@@ -1,0 +1,36 @@
+Priya Sharma
+Email: priya.sharma@example.com
+Location: Austin, TX
+
+SUMMARY
+Junior data scientist and analyst with internship experience building Python data pipelines,
+supervised learning models, and REST services. Comfortable with SQL, pandas, and scikit-learn.
+
+EDUCATION
+Bachelor of Science in Computer Science, State University, 2024
+Coursework: Statistics, Databases, Machine Learning, Data Structures
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, Scikit-learn, FastAPI, Git, REST APIs, Matplotlib
+
+EXPERIENCE
+Data Science Intern, Helio Analytics (2024)
+- Built pandas pipelines to clean survey data for weekly product reports.
+- Trained scikit-learn classification models to predict customer churn.
+- Wrote SQL queries to join warehouse tables for experiment analysis.
+- Documented REST APIs used by the reporting dashboard.
+
+Software Intern, Campus Labs (2023)
+- Implemented FastAPI endpoints for an internal dataset catalog.
+- Used Git for code review and release branches.
+
+PROJECTS
+Campus Placement Predictor
+- Python and scikit-learn model using academic and internship features.
+- Exposed predictions through a FastAPI service.
+
+SQL Retail Explorer
+- Wrote SQL aggregations and Python notebooks to analyze fictional store sales.
+
+CERTIFICATIONS
+None listed.
